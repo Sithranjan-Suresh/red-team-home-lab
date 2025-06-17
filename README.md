@@ -59,7 +59,7 @@ Every day includes screenshots showing:
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How red teamers think: from discovery to full compromise
 - Practical use of popular offensive tools
